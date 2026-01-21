@@ -1,7 +1,7 @@
 import Hero from "./components/hero"
 import Nav from "./components/Nav"
 import Trusted from "./components/Trusted"
-
+import Explore from "./components/Explore"
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
      <Nav></Nav>
      <Hero></Hero>
      <Trusted />
-     
+     <Explore />
    </div>
   )
 }
