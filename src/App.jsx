@@ -1,8 +1,9 @@
+import Nav from "./components/Nav"
 
 function App() {
   return (
-   <div>
-     app
+   <div className="px-[150px]">
+     <Nav></Nav>
    </div>
   )
 }
