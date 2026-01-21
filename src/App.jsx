@@ -6,7 +6,7 @@ import Services from "./components/Services"
 import Control from "./components/Control"
 import Testimonials from "./components/Testimonials"
 import Outreach from "./components/Outreach"
-
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -19,7 +19,7 @@ function App() {
      <Control />
      <Testimonials />
      <Outreach />
-     
+     <Footer />
    </div>
   )
 }
