@@ -5,6 +5,7 @@ import Explore from "./components/Explore"
 import Services from "./components/Services"
 import Control from "./components/Control"
 import Testimonials from "./components/Testimonials"
+import Outreach from "./components/Outreach"
 
 
 function App() {
@@ -17,7 +18,8 @@ function App() {
      <Explore />
      <Control />
      <Testimonials />
-    
+     <Outreach />
+     
    </div>
   )
 }
